@@ -2,4 +2,4 @@
 
 ## test git log and git revert
 
-## Add some random stuff: kljadskjladsjkldsajklasdkjlsdakjl
+## After added random stuff, i will revert using git revert hash and i will get this file now
